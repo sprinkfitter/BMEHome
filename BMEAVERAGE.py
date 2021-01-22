@@ -23,4 +23,5 @@ while True:
   #print(round(temperatures, 2))
   #print("{:.2f}".format(temperatures));
   print(temperatures)
-  sleep(2)
+  sleep(10)
+
